@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(213, 237, 223);
+}
+
+.doneButton {
+  text-decoration: line-through;
+}
